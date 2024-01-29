@@ -22,3 +22,8 @@ PIG-PONG
 Two-player game blending chance and strategy. Roll the die, accumulate points, but beware of ones—risking your points as
 your turn is forfeited. Strategic decisions matter with the 'Hold' option, allowing the transfer of points to reach 100 first.
 Simple, strategic, and exciting, Dice Duel is your go-to for a friendly and accessible dice showdown.
+
+WEATHER-APP
+Allows users to check the current weather conditions for a specific location. The user-friendly interface includes
+a search box where users can enter the city name. Upon search, the app fetches real-time weather data from an API,
+displaying key information such as temperature, weather description, humidity, and wind speed.
